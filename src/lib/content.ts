@@ -247,11 +247,46 @@ const GROUP_TITLES: Record<string, string> = {
   creatures: "Creatures",
 };
 
-// locale → 分组标题映射（非英语站点当前回退英文默认标题）
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
+// locale → 分组标题映射（非英语侧边栏标题；与各 locale JSON 的 nav.* 保持一致）
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  "pt-br": {
+    codes: "Códigos",
+    rods: "Varas",
+    enchants: "Encantamentos",
+    values: "Valores",
+    relics: "Relíquias",
+    guide: "Guias",
+    locations: "Locais",
+    creatures: "Criaturas",
+  },
+  es: {
+    codes: "Códigos",
+    rods: "Cañas",
+    enchants: "Encantamientos",
+    values: "Valores",
+    relics: "Reliquias",
+    guide: "Guías",
+    locations: "Ubicaciones",
+    creatures: "Criaturas",
+  },
+  id: {
+    codes: "Kode",
+    rods: "Pancingan",
+    enchants: "Enchant",
+    values: "Nilai",
+    relics: "Relik",
+    guide: "Panduan",
+    locations: "Lokasi",
+    creatures: "Makhluk",
+  },
+};
 
 // locale → "Overview" 翻译
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  "pt-br": "Visão geral",
+  es: "Descripción general",
+  id: "Ikhtisar",
+};
 
 // 分组排序顺序（与 NAVIGATION_CONFIG 一致）
 const GROUP_ORDER: string[] = [

@@ -1,1 +1,472 @@
-{}
+{
+  "site": {
+    "name": "Fisch Wiki",
+    "shortName": "Fisch",
+    "tagline": "Wiki Komunitas Buatan Penggemar",
+    "description": "Wiki fan-made Fisch untuk Roblox dengan kode aktif, panduan pancingan dan ikan, lokasi, tips progresi, event, serta bantuan untuk pemula dan pemain yang kembali.",
+    "legalNotice": "Wiki fan tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "home": "Beranda",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "codes": "Kode",
+    "rods": "Pancingan",
+    "enchants": "Enchant",
+    "values": "Nilai",
+    "relics": "Relik",
+    "guide": "Panduan",
+    "locations": "Lokasi",
+    "creatures": "Makhluk"
+  },
+  "home": {
+    "meta": {
+      "title": "Fisch Wiki — Kode, Pancingan, Ikan & Panduan Pemula",
+      "description": "Jelajahi kode Fisch, pancingan, ikan, lokasi, tips progresi, event, dan panduan pemula Roblox. Referensi fan-made yang terus diperbarui untuk pemain baru maupun yang kembali."
+    },
+    "hero": {
+      "eyebrow": "Wiki Komunitas Buatan Penggemar",
+      "title": "Fisch Wiki",
+      "description": "Lempar pancingmu, temukan tangkapan langka, tingkatkan peralatan, dan jelajahi dunia Fisch yang terus meluas. Gunakan panduan kami untuk memahami pancingan, ikan, lokasi, kode, dan progresi — dari tangkapan pertama sampai petualangan late game.",
+      "stats": [
+        "Rilis 5 Okt 2024",
+        "Diperbarui Sep 2026",
+        "4,8 M+ Kunjungan",
+        "3,6 J+ Favorit",
+        "400 Ribu+ Variasi Ikan"
+      ],
+      "primaryCta": "Mulai Panduan Pemula",
+      "secondaryCta": "Jelajahi Pancingan",
+      "tertiaryCta": "Lihat Kode Aktif",
+      "videoLabel": "Media Rilis Resmi"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Lihat Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai dari Sini",
+      "title": "Petualangan Fisch-mu",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari cara kerja memancing, cara mendapat uang pertama, meningkatkan peralatan, dan mulai menjelajahi dunia dengan efisien."
+        },
+        {
+          "number": "2",
+          "title": "Pancingan & Progresi",
+          "description": "Pahami progresi pancingan, stat penting, dan target yang harus dituju saat berpindah dari peralatan awal ke peralatan memancing yang lebih kuat."
+        },
+        {
+          "number": "3",
+          "title": "Ikan & Bestiary",
+          "description": "Temukan ikan, tingkat kelangkaan, syarat tangkapan, dan kondisi yang memengaruhi hasil pancinganmu di setiap area."
+        },
+        {
+          "number": "4",
+          "title": "Lokasi, Event & Rahasia",
+          "description": "Jelajahi pulau, spot memancing, area spesial, event, dan konten tersembunyi di seluruh dunia Fisch yang terus meluas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Kode Fisch",
+        "Pancingan Terbaik",
+        "Lokasi Ikan",
+        "Panduan Pemula"
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Fisch?",
+      "paragraphs": [
+        "Fisch adalah petualangan memancing di Roblox yang berfokus pada eksplorasi, koleksi, dan progresi. Lempar pancing, tarik tangkapan yang beragam, bangun koleksimu, dan tingkatkan peralatan memancing saat menjelajahi dunia yang terus meluas.",
+        "Ikan bisa muncul dengan ratusan ribu variasi, sementara lokasi, peralatan, dan konten terbatas waktu yang baru memberi pemain alasan lebih untuk menjelajah. Progresi berputar pada mempelajari mekanik memancing, menemukan tangkapan lebih baik, dan mengembangkan peralatan yang semakin andal."
+      ],
+      "stats": [
+        {
+          "label": "Pengembang",
+          "value": "Fisching"
+        },
+        {
+          "label": "Pencipta Asli",
+          "value": "WoozyNate"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulasi"
+        },
+        {
+          "label": "Kunjungan",
+          "value": "4,8 M+"
+        },
+        {
+          "label": "Favorit",
+          "value": "3,6 J+"
+        },
+        {
+          "label": "Kapasitas Server",
+          "value": "20"
+        },
+        {
+          "label": "Variasi Ikan",
+          "value": "400 Ribu+"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Fisch Wiki",
+      "description": "Delapan pusat utama yang membahas kode Fisch, pancingan, ikan, enchant, lokasi, dan panduan progresi langkah demi langkah.",
+      "readFullGuide": "Baca Panduan Lengkap",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode Fisch",
+          "description": "Pantau kode redeem Fisch terbaru yang masih berfungsi beserta hadiahnya, dari skin pancingan hingga suku cadang kapal selam.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SCARLET",
+              "detail": "Menukar 1 Scarlet Skin untuk Nate's Blade.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "CARBON",
+              "detail": "Menukar 1 Carbon Bobber.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "TemporarySubmarine",
+              "detail": "Menukar 1 Back Fin, 1 Submarine Top, 1 Metal Panel, 1 Side Fin, dan 1 Window.",
+              "badge": "Aktif"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula Fisch",
+          "description": "Pelajari siklus inti memancing di Fisch langkah demi langkah: melempar pancing, menarik ikan menyambar, mengendalikan bar memancing, dan menuntaskan tangkapan pertamamu.",
+          "href": "/guide/fisch-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tahan tombol aksi untuk melempar pelampung ke air."
+            },
+            {
+              "label": "2",
+              "detail": "Tunggu ikan menyambar; kamu bisa menggoyangkan pancingan saat menunggu agar ikan datang lebih cepat."
+            },
+            {
+              "label": "3",
+              "detail": "Setelah ikan menyambar, tahan atau klik untuk mengendalikan bar putih dan mengikuti garis biru sedekat mungkin."
+            },
+            {
+              "label": "4",
+              "detail": "Pertahankan interaksi memancing sampai bar progres di bawah penuh, lalu ikan tersentak naik."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Pancingan Fisch",
+          "description": "Bandingkan pancingan Fisch paling penting dan tempat membelinya saat progresmu melampaui pancingan awal, dari pilihan gratis Moosewood hingga perlengkapan endgame bernilai enam digit.",
+          "href": "/rods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Flimsy Rod",
+              "detail": "Pancingan awal, tersedia dari pedagang Moosewood seharga C$0."
+            },
+            {
+              "label": "Training Rod",
+              "detail": "Tersedia di gerai pedagang Moosewood seharga C$300."
+            },
+            {
+              "label": "Plastic Rod",
+              "detail": "Tersedia di gerai pedagang Moosewood seharga C$900."
+            },
+            {
+              "label": "Carbon Rod",
+              "detail": "Tersedia di gerai pedagang Moosewood seharga C$2.000."
+            },
+            {
+              "label": "Steady Rod",
+              "detail": "Dijual di area Blacksmith Roslit Bay seharga C$7.000."
+            },
+            {
+              "label": "Nocturnal Rod",
+              "detail": "Ditemukan di Vertigo setelah masuk lewat Strange Whirlpool, dihargai C$11.000."
+            },
+            {
+              "label": "Kings Rod",
+              "detail": "Berada di Keepers Altar, dihargai C$120.000."
+            },
+            {
+              "label": "Trident Rod",
+              "detail": "Terkait dengan area pedagang rahasia di Desolate Deep, dihargai C$150.000."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List Pancingan Fisch",
+          "description": "Lihat perbandingan pancingan First Sea, dari pilihan unggulan S-tier hingga andalan A-tier yang bisa diandalkan di setiap tahap permainan.",
+          "href": "/rods/fisch-best-rods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Seraphic Rod, Ethereal Prism Rod, Challenger's Rod, Heaven's Rod, Rod of the Forgotten Fang, Zeus Rod, Rod of the Depths, dan No-Life Rod."
+            },
+            {
+              "label": "A",
+              "detail": "Kraken Rod, Trident Rod, Sunken Rod, dan Mythical Rod termasuk pancingan A-tier dalam peringkat First Sea."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bestiary dan Lokasi Ikan Fisch",
+          "description": "Gunakan kondisi lokasi, kelangkaan, cuaca, musim, dan umpan untuk memburu tangkapan Fisch tertentu dan melengkapi entri Bestiary.",
+          "href": "/creatures",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Blue Whale",
+              "detail": "Tangkapan Exotic dari Blue Whale Migration; menyukai cuaca Clear, musim panas, dan Shrimp."
+            },
+            {
+              "label": "Moby",
+              "detail": "Tangkapan Secret dari Blue Whale Migration; menyukai cuaca Clear, musim panas, dan Squid."
+            },
+            {
+              "label": "Lunar Monkfish",
+              "detail": "Ikan Mythical di Blue Moon Sea 1; menyukai cuaca Windy, musim dingin, dan umpan Shark Head."
+            },
+            {
+              "label": "Icy Dragonfish",
+              "detail": "Ikan Legendary di Blue Moon Sea 1; menyukai cuaca Foggy, musim dingin, dan umpan Truffle Worm."
+            },
+            {
+              "label": "Scylla",
+              "detail": "Ikan Secret di Mariana's Veil: Veil of the Forsaken; menyukai umpan Shark Head."
+            },
+            {
+              "label": "Grand Reef Guardian",
+              "detail": "Tangkapan Mythical di Grand Reef yang menyukai umpan Truffle Worm."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Enchant Fisch",
+          "description": "Enchant mengubah performa pancingan lewat kecepatan sambaran, keberuntungan, resiliensi, kontrol, bonus EXP, dan mutasi berharga.",
+          "href": "/enchants",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hasty",
+              "detail": "Mengurangi waktu sambaran sebesar 55%."
+            },
+            {
+              "label": "Clever",
+              "detail": "Memberi 2,25x EXP pada semua tangkapan."
+            },
+            {
+              "label": "Quantum",
+              "detail": "Memberi peluang 25% menangkap ikan Subspace yang terjual 5x nilainya."
+            },
+            {
+              "label": "Mystical",
+              "detail": "Memberi +25% Luck, +45% Resilience, +15% Lure Speed, dan +10% Progress Speed."
+            },
+            {
+              "label": "Divine",
+              "detail": "Memberi +45% Luck, +20% Resilience, dan +20% Lure Speed."
+            },
+            {
+              "label": "Controlled",
+              "detail": "Menambah Control pancingan sebesar 0,15."
+            },
+            {
+              "label": "Resilient",
+              "detail": "Menambah Resilience pancingan sebesar 35%."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Peta dan Lokasi Fisch",
+          "description": "Lokasi kunci Fisch terkait dengan progresi pancingan, pedagang, penyelesaian Bestiary, dan akses ke area lanjutan.",
+          "href": "/locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Moosewood",
+              "detail": "Gerai pedagang pancingan awal berada di sekitar koordinat 465, 150, 230 dan menjual pancingan awal seperti Training, Plastic, Carbon, Long, Fast, dan Lucky."
+            },
+            {
+              "label": "Roslit Bay",
+              "detail": "Area Blacksmith berada di sekitar -1515, 140, 765 dan menjual pancingan Steady, Fortune, dan Rapid."
+            },
+            {
+              "label": "Vertigo",
+              "detail": "Masuk ke Vertigo dengan melompat ke Strange Whirlpool yang ditandai pilar cahaya vertikal; Nocturnal Rod dan Aurora Rod terkait dengan area ini."
+            },
+            {
+              "label": "Desolate Deep",
+              "detail": "Area pedagang rahasia di sekitar -990, -245, -2695 berisi Reinforced Rod dan Trident Rod."
+            },
+            {
+              "label": "The Arch",
+              "detail": "Berada dekat Statue of Sovereignty sekitar 980, 130, -1230; Destiny Rod mensyaratkan penyelesaian Bestiary lebih dari 70%."
+            },
+            {
+              "label": "Northern Summit",
+              "detail": "Memuat beberapa lokasi pancingan, termasuk Arctic Rod dekat pedagang kamp dasar dan Avalanche Rod dekat kamp ketiga."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Panduan Rod of the Depths",
+          "description": "Rod of the Depths terkait dengan penyelesaian Bestiary Vertigo, Enchant Relic spesial, The Depths Key, dan labirin di dalam The Depths.",
+          "href": "/guide/fisch-rod-progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Siapkan lebih dari C$750.000, satu Hexed Enchant Relic, satu Abyssal Enchant Relic, penyelesaian Bestiary Vertigo 100% termasuk Isonade, dan The Depths Key."
+            },
+            {
+              "label": "2",
+              "detail": "Jika perlu, dapatkan Enchant Relic dan gunakan Penilai Moosewood sampai kamu mendapatkan varian Hexed dan Abyssal."
+            },
+            {
+              "label": "3",
+              "detail": "Masuk ke Vertigo lewat Strange Whirlpool, lengkapi Bestiary-nya, dan dapatkan The Depths Key dengan memancing di Vertigo atau Strange Whirlpool."
+            },
+            {
+              "label": "4",
+              "detail": "Di dalam The Depths, letakkan Hexed Enchant Relic di altar puncak air terjun dan Abyssal Enchant Relic di altar di bawah patung raksasa."
+            },
+            {
+              "label": "5",
+              "detail": "Taklukkan labirin di bawah patung untuk mencapai Rod of the Depths yang dihargai C$750.000."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang Fisch.",
+      "items": [
+        {
+          "question": "Apa itu Fisch?",
+          "answer": "Fisch adalah petualangan memancing gratis di Roblox buatan Fisching yang dirilis 5 Oktober 2024. Kamu memancing, menarik, dan mengoleksi di dunia laut yang terus meluas dengan lebih dari 400.000 variasi ikan, pulau untuk dijelajahi, dan pancingan untuk ditingkatkan. Game ini sudah melewati 4,8 miliar kunjungan."
+        },
+        {
+          "question": "Bagaimana cara redeem kode Fisch?",
+          "answer": "Buka Fisch di Roblox dan masukkan kode yang masih aktif di menu kode game untuk mengklaim hadiah seperti Scarlet Skin, Carbon Bobber, atau suku cadang kapal selam. Halaman Kode di Fisch Wiki memantau semua kode aktif beserta hadiahnya."
+        },
+        {
+          "question": "Apa pancingan terbaik di Fisch?",
+          "answer": "Semua pemain memulai dengan Flimsy Rod gratis di Moosewood lalu naik ke Training, Plastic, dan Carbon Rod hingga pancingan endgame seperti Kings Rod (C$120.000) dan Rod of the Depths (C$750.000). Tier List Pancingan Fisch membandingkan pancingan paling populer per tier."
+        },
+        {
+          "question": "Di mana menemukan ikan langka di Fisch?",
+          "answer": "Tangkapan langka Fisch bergantung pada lokasi, cuaca, musim, dan umpan. Misalnya, Blue Whale Exotic muncul saat cuaca Clear di musim panas dengan umpan Shrimp, sementara Scylla bersembunyi di Mariana's Veil dan menyukai umpan Shark Head. Halaman Makhluk mencantumkan kondisi untuk setiap entri."
+        },
+        {
+          "question": "Apakah Fisch gratis dimainkan?",
+          "answer": "Ya, Fisch gratis dimainkan di Roblox dan berjalan di server hingga 20 pemain. Kamu hanya butuh akun Roblox untuk mulai memancing, dan semua pancingan, ikan, serta lokasi game bisa dijangkau lewat permainan normal."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Fisch?",
+      "description": "Dari lemparan pertama hingga tangkapan langka, pancingan lanjutan, dan lokasi tersembunyi, gunakan panduan Fisch kami untuk merencanakan progresi dan menjelajahi lebih dalam.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Kode Fisch",
+    "overviewDescription": "Telusuri semua panduan kode Fisch — kode aktif dan kedaluwarsa, hadiah, syarat level, dan instruksi redeem langkah demi langkah untuk Roblox."
+  },
+  "rods": {
+    "overviewTitle": "Pancingan Fisch",
+    "overviewDescription": "Jelajahi semua pancingan di Fisch — stat, ability, pancingan terbaik untuk early dan late game, serta cara mendapatkan setiap pancingan langkah demi langkah."
+  },
+  "enchants": {
+    "overviewTitle": "Enchant Fisch",
+    "overviewDescription": "Pelajari cara kerja enchant di Fisch — tier list enchant, kombinasi enchant terbaik per pancingan, dan cara menggunakan Enchant Relic."
+  },
+  "values": {
+    "overviewTitle": "Daftar Nilai Fisch",
+    "overviewDescription": "Cek nilai trade ikan dan item Fisch — daftar nilai, tren permintaan, dan tips trading untuk tukar-menukar yang adil."
+  },
+  "relics": {
+    "overviewTitle": "Relik Fisch",
+    "overviewDescription": "Temukan semua relik di Fisch — tempat mendapatkan Enchant Relic, fungsi setiap relik, dan relik mana yang layak dipakai."
+  },
+  "guide": {
+    "overviewTitle": "Panduan Fisch",
+    "overviewDescription": "Panduan Fisch untuk setiap tahap — dasar-dasar pemula, jalur progresi, progresi pancingan, bedah update, dan tips memancing lanjutan."
+  },
+  "locations": {
+    "overviewTitle": "Lokasi Fisch",
+    "overviewDescription": "Temukan semua lokasi di Fisch — pulau, spot memancing, koordinat, tangkapan eksklusif, dan cara membuka setiap area."
+  },
+  "creatures": {
+    "overviewTitle": "Makhluk Fisch",
+    "overviewDescription": "Jelajahi makhluk dan ikan Fisch — entri bestiary, kelangkaan, umpan favorit, dan tempat menangkap setiap spesies."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "codeScarletDesc": "Scarlet skin untuk Nate's Blade",
+    "codeSubmarineDesc": "Suku cadang kapal selam",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Kunjungi lagi segera!"
+  },
+  "footer": {
+    "aboutTitle": "Fisch Wiki",
+    "about": "Fisch Wiki adalah situs panduan independen buatan penggemar untuk game Roblox Fisch. Kami membahas kode, pancingan, ikan, lokasi, progresi, event, dan panduan pemula. Situs ini tidak berafiliasi dengan Roblox atau Fisching.",
+    "quickLinks": "Tautan Cepat",
+    "legal": "Legal",
+    "copyright": "© 2026 Fisch Wiki. Tidak berafiliasi dengan Fisching atau Roblox.",
+    "description": "Panduan fan-made untuk petualangan memancing Fisch di Roblox.",
+    "playGame": "Mainkan Fisch di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "Media Rilis Resmi (YouTube)",
+    "community": "r/FischRoblox (Komunitas Tak Resmi)",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan",
+    "copyrightPage": "Hak Cipta",
+    "aboutPage": "Tentang"
+  }
+}

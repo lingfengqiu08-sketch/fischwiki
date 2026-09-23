@@ -1,1 +1,472 @@
-{}
+{
+  "site": {
+    "name": "Fisch Wiki",
+    "shortName": "Fisch",
+    "tagline": "Wiki da Comunidade, Feita por Fãs",
+    "description": "Wiki fan-made de Fisch (Roblox) com códigos ativos, guias de varas e peixes, locais, dicas de progressão, eventos e ajuda para iniciantes e veteranos.",
+    "legalNotice": "Wiki não oficial feita por fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "codes": "Códigos",
+    "rods": "Varas",
+    "enchants": "Encantamentos",
+    "values": "Valores",
+    "relics": "Relíquias",
+    "guide": "Guias",
+    "locations": "Locais",
+    "creatures": "Criaturas"
+  },
+  "home": {
+    "meta": {
+      "title": "Fisch Wiki — Códigos, Varas, Peixes e Guia para Iniciantes",
+      "description": "Explore códigos de Fisch, varas, peixes, locais, dicas de progressão, eventos e guias para iniciantes do Roblox. Referência fan-made atualizada para jogadores novos e veteranos."
+    },
+    "hero": {
+      "eyebrow": "Wiki da Comunidade, Feita por Fãs",
+      "title": "Fisch Wiki",
+      "description": "Lance a linha, descubra capturas raras, melhore seu equipamento e explore o mundo em expansão de Fisch. Use nossos guias para dominar varas, peixes, locais, códigos e progressão, da primeira captura às aventuras do late game.",
+      "stats": [
+        "Lançado em 5 de out. de 2024",
+        "Atualizado em set. de 2026",
+        "4,8 bi+ de visitas",
+        "3,6 mi+ de favoritos",
+        "400 mil+ variações de peixes"
+      ],
+      "primaryCta": "Começar o Guia de Iniciante",
+      "secondaryCta": "Explorar Varas",
+      "tertiaryCta": "Ver Códigos Ativos",
+      "videoLabel": "Mídia Oficial de Lançamento"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece por Aqui",
+      "title": "Sua Jornada no Fisch",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda como a pesca funciona, como ganhar seu primeiro dinheiro, melhorar seu equipamento e começar a explorar o mundo com eficiência."
+        },
+        {
+          "number": "2",
+          "title": "Varas e Progressão",
+          "description": "Entenda a progressão das varas, os atributos importantes e o que buscar ao sair do equipamento inicial rumo a varas de pesca mais fortes."
+        },
+        {
+          "number": "3",
+          "title": "Peixes e Bestiário",
+          "description": "Descubra peixes, raridades, requisitos de captura e as condições que afetam o que você pesca em cada região."
+        },
+        {
+          "number": "4",
+          "title": "Locais, Eventos e Segredos",
+          "description": "Explore ilhas, pontos de pesca, áreas especiais, eventos e conteúdos escondidos pelo mundo em expansão de Fisch."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Códigos de Fisch",
+        "Melhores Varas",
+        "Locais de Peixes",
+        "Guia para Iniciantes"
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Fisch?",
+      "paragraphs": [
+        "Fisch é uma aventura de pesca no Roblox focada em exploração, coleta e progressão. Lance a linha, pesque diferentes capturas, monte sua coleção e melhore seu equipamento de pesca enquanto explora um mundo em expansão.",
+        "Os peixes podem aparecer com uma enorme variedade de variações, enquanto novos locais, equipamentos e conteúdos por tempo limitado dão aos jogadores mais motivos para explorar. A progressão gira em torno de aprender as mecânicas de pesca, descobrir capturas melhores e desenvolver equipamentos cada vez mais poderosos."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Fisching"
+        },
+        {
+          "label": "Criador Original",
+          "value": "WoozyNate"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulação"
+        },
+        {
+          "label": "Visitas",
+          "value": "4,8 bi+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "3,6 mi+"
+        },
+        {
+          "label": "Jogadores por Servidor",
+          "value": "20"
+        },
+        {
+          "label": "Variações de Peixes",
+          "value": "400 mil+"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore a Fisch Wiki",
+      "description": "Oito centros principais cobrindo códigos de Fisch, varas, peixes, encantamentos, locais e guias de progressão passo a passo.",
+      "readFullGuide": "Ler o Guia Completo",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Fisch",
+          "description": "Acompanhe os últimos códigos de resgate funcionais de Fisch e as recompensas que eles entregam, de skins de vara a peças de construção de submarino.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SCARLET",
+              "detail": "Resgata 1 Scarlet Skin para a Nate's Blade.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "CARBON",
+              "detail": "Resgata 1 Carbon Bobber.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "TemporarySubmarine",
+              "detail": "Resgata 1 Back Fin, 1 Submarine Top, 1 Metal Panel, 1 Side Fin e 1 Window.",
+              "badge": "Ativo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Iniciantes de Fisch",
+          "description": "Aprenda o ciclo básico da pesca em Fisch passo a passo: arremesso, atrair a mordida, controlar a barra de pesca e completar sua primeira captura.",
+          "href": "/guide/fisch-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Segure o botão de ação para lançar a boia na água."
+            },
+            {
+              "label": "2",
+              "detail": "Espere a mordida; você pode chacoalhar a vara enquanto espera para atrair peixes mais rápido."
+            },
+            {
+              "label": "3",
+              "detail": "Depois da mordida, segure ou clique para controlar a barra branca e acompanhar a linha azul o mais de perto possível."
+            },
+            {
+              "label": "4",
+              "detail": "Mantenha a interação de pesca até a barra de progresso da parte de baixo encher; então o peixe é puxado para fora d'água."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Varas de Fisch",
+          "description": "Compare as principais varas de Fisch e onde comprá-las conforme você avança além da vara inicial, das opções grátis de Moosewood ao equipamento de seis dígitos do endgame.",
+          "href": "/rods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Flimsy Rod",
+              "detail": "A vara inicial, disponível com o mercador de Moosewood por C$0."
+            },
+            {
+              "label": "Training Rod",
+              "detail": "Disponível na barraca do mercador de Moosewood por C$300."
+            },
+            {
+              "label": "Plastic Rod",
+              "detail": "Disponível na barraca do mercador de Moosewood por C$900."
+            },
+            {
+              "label": "Carbon Rod",
+              "detail": "Disponível na barraca do mercador de Moosewood por C$2.000."
+            },
+            {
+              "label": "Steady Rod",
+              "detail": "Vendida na área do Blacksmith em Roslit Bay por C$7.000."
+            },
+            {
+              "label": "Nocturnal Rod",
+              "detail": "Encontrada em Vertigo após entrar por um Strange Whirlpool, com preço de C$11.000."
+            },
+            {
+              "label": "Kings Rod",
+              "detail": "Localizada no Keepers Altar, com preço de C$120.000."
+            },
+            {
+              "label": "Trident Rod",
+              "detail": "Associada à área secreta do mercador em Desolate Deep, com preço de C$150.000."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Varas de Fisch",
+          "description": "Veja como as varas do First Sea se comparam, das escolhas de elite no S-tier aos cavalos de batalha confiáveis do A-tier para cada fase do jogo.",
+          "href": "/rods/fisch-best-rods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Seraphic Rod, Ethereal Prism Rod, Challenger's Rod, Heaven's Rod, Rod of the Forgotten Fang, Zeus Rod, Rod of the Depths e No-Life Rod."
+            },
+            {
+              "label": "A",
+              "detail": "Kraken Rod, Trident Rod, Sunken Rod e Mythical Rod estão entre as varas A-tier do ranking do First Sea."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bestiário e Locais de Peixes de Fisch",
+          "description": "Use condições de local, raridade, clima, estação e isca para mirar em capturas específicas de Fisch e completar as entradas do Bestiário.",
+          "href": "/creatures",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Blue Whale",
+              "detail": "Uma captura Exotic da Blue Whale Migration; prefere clima Clear, verão e Shrimp."
+            },
+            {
+              "label": "Moby",
+              "detail": "Uma captura Secret da Blue Whale Migration; prefere clima Clear, verão e Squid."
+            },
+            {
+              "label": "Lunar Monkfish",
+              "detail": "Um peixe Mythical do Blue Moon Sea 1; prefere clima Windy, inverno e isca Shark Head."
+            },
+            {
+              "label": "Icy Dragonfish",
+              "detail": "Um peixe Legendary do Blue Moon Sea 1; prefere clima Foggy, inverno e isca Truffle Worm."
+            },
+            {
+              "label": "Scylla",
+              "detail": "Um peixe Secret em Mariana's Veil: Veil of the Forsaken; prefere isca Shark Head."
+            },
+            {
+              "label": "Grand Reef Guardian",
+              "detail": "Uma captura Mythical do Grand Reef que prefere isca Truffle Worm."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Encantamentos de Fisch",
+          "description": "Os encantamentos modificam o desempenho da vara com velocidade de fisgada, sorte, resiliência, controle, bônus de XP e mutações valiosas.",
+          "href": "/enchants",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hasty",
+              "detail": "Reduz o tempo de fisgada em 55%."
+            },
+            {
+              "label": "Clever",
+              "detail": "Concede 2,25x de XP em todas as capturas."
+            },
+            {
+              "label": "Quantum",
+              "detail": "Dá 25% de chance de pescar um peixe Subspace, vendido por 5x o valor."
+            },
+            {
+              "label": "Mystical",
+              "detail": "Concede +25% de Sorte, +45% de Resiliência, +15% de Velocidade de Fisgada e +10% de Velocidade de Progresso."
+            },
+            {
+              "label": "Divine",
+              "detail": "Concede +45% de Sorte, +20% de Resiliência e +20% de Velocidade de Fisgada."
+            },
+            {
+              "label": "Controlled",
+              "detail": "Aumenta o Controle da vara em 0,15."
+            },
+            {
+              "label": "Resilient",
+              "detail": "Aumenta a Resiliência da vara em 35%."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mapa e Locais de Fisch",
+          "description": "Os principais locais de Fisch estão ligados à progressão de varas, mercadores, conclusão do Bestiário e acesso a áreas avançadas.",
+          "href": "/locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Moosewood",
+              "detail": "A barraca do mercador de varas iniciais fica perto das coordenadas 465, 150, 230 e vende varas iniciais como Training, Plastic, Carbon, Long, Fast e Lucky."
+            },
+            {
+              "label": "Roslit Bay",
+              "detail": "A área do Blacksmith fica perto de -1515, 140, 765 e vende as varas Steady, Fortune e Rapid."
+            },
+            {
+              "label": "Vertigo",
+              "detail": "Entre em Vertigo pulando em um Strange Whirlpool marcado por um pilar vertical de luz; a Nocturnal Rod e a Aurora Rod estão associadas a esta área."
+            },
+            {
+              "label": "Desolate Deep",
+              "detail": "Uma área secreta de mercador perto de -990, -245, -2695 inclui a Reinforced Rod e a Trident Rod."
+            },
+            {
+              "label": "The Arch",
+              "detail": "Localizado perto da Statue of Sovereignty, por volta de 980, 130, -1230; a Destiny Rod exige mais de 70% de conclusão do Bestiário."
+            },
+            {
+              "label": "Northern Summit",
+              "detail": "Contém vários locais de varas, incluindo a Arctic Rod perto do mercador do acampamento base e a Avalanche Rod perto do terceiro acampamento."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia da Rod of the Depths",
+          "description": "A Rod of the Depths está ligada à conclusão do Bestiário de Vertigo, Encant Relics especiais, The Depths Key e um labirinto dentro de The Depths.",
+          "href": "/guide/fisch-rod-progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prepare mais de C$750.000, um Hexed Enchant Relic, um Abyssal Enchant Relic, 100% de conclusão do Bestiário de Vertigo incluindo Isonade, e The Depths Key."
+            },
+            {
+              "label": "2",
+              "detail": "Se necessário, consiga Enchant Relics e use o Avaliador de Moosewood até obter as variantes Hexed e Abyssal."
+            },
+            {
+              "label": "3",
+              "detail": "Entre em Vertigo por um Strange Whirlpool, complete o Bestiário local e consiga The Depths Key pescando em Vertigo ou no Strange Whirlpool."
+            },
+            {
+              "label": "4",
+              "detail": "Dentro de The Depths, coloque o Hexed Enchant Relic no altar no topo da cachoeira e o Abyssal Enchant Relic no altar abaixo da estátua gigante."
+            },
+            {
+              "label": "5",
+              "detail": "Complete o labirinto abaixo da estátua para chegar à Rod of the Depths, que custa C$750.000."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Fisch.",
+      "items": [
+        {
+          "question": "O que é Fisch?",
+          "answer": "Fisch é uma aventura de pesca gratuita no Roblox, da Fisching, lançada em 5 de outubro de 2024. Você pesca, recolhe e coleta em um mundo oceânico em expansão, com mais de 400.000 variações possíveis de peixes, ilhas para explorar e varas para melhorar. O jogo já passou de 4,8 bilhões de visitas."
+        },
+        {
+          "question": "Como resgatar códigos de Fisch?",
+          "answer": "Abra o Fisch no Roblox e digite um código válido no menu de códigos do jogo para receber recompensas como a Scarlet Skin, o Carbon Bobber ou peças de construção de submarino. A página de Códigos da Fisch Wiki acompanha todos os códigos ativos e suas recompensas."
+        },
+        {
+          "question": "Qual é a melhor vara de Fisch?",
+          "answer": "Todo pescador começa com a Flimsy Rod grátis em Moosewood e evolui pelas Training, Plastic e Carbon Rod até varas de endgame como a Kings Rod (C$120.000) e a Rod of the Depths (C$750.000). A Tier List de Varas de Fisch compara as varas mais populares por tier."
+        },
+        {
+          "question": "Onde encontrar peixes raros em Fisch?",
+          "answer": "As capturas raras de Fisch dependem de local, clima, estação e isca. Por exemplo, a Blue Whale Exotic aparece com clima Clear no verão usando isca Shrimp, enquanto a Scylla se esconde em Mariana's Veil e prefere isca Shark Head. A página de Criaturas lista as condições de cada entrada."
+        },
+        {
+          "question": "Fisch é gratuito?",
+          "answer": "Sim, Fisch é grátis para jogar no Roblox e roda em servidores de até 20 jogadores. Você só precisa de uma conta Roblox para começar a pescar, e todas as varas, peixes e locais do jogo podem ser alcançados jogando normalmente."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar o Fisch?",
+      "description": "Do primeiro arremesso às capturas raras, varas avançadas e locais escondidos, use nossos guias de Fisch para planejar sua progressão e explorar mais do jogo.",
+      "primary": "Ler o Guia de Iniciante",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Fisch",
+    "overviewDescription": "Veja todos os guias de códigos de Fisch — códigos ativos e expirados, recompensas, requisitos de nível e instruções de resgate passo a passo para o Roblox."
+  },
+  "rods": {
+    "overviewTitle": "Varas de Fisch",
+    "overviewDescription": "Explore todas as varas de Fisch — atributos, habilidades, melhores varas para o early e o late game e como conseguir cada vara passo a passo."
+  },
+  "enchants": {
+    "overviewTitle": "Encantamentos de Fisch",
+    "overviewDescription": "Aprenda como funciona o encantamento em Fisch — tier lists de encantamentos, melhores combinações por vara e como usar Encant Relics."
+  },
+  "values": {
+    "overviewTitle": "Lista de Valores de Fisch",
+    "overviewDescription": "Confira os valores de troca de peixes e itens de Fisch — listas de valores, tendências de demanda e dicas de troca justa."
+  },
+  "relics": {
+    "overviewTitle": "Relíquias de Fisch",
+    "overviewDescription": "Encontre todas as relíquias de Fisch — onde conseguir Encant Relics, o que cada relíquia faz e quais relíquias valem a pena."
+  },
+  "guide": {
+    "overviewTitle": "Guias de Fisch",
+    "overviewDescription": "Guias de Fisch para cada fase — o básico para iniciantes, rotas de progressão, progressão de varas, análises de atualizações e dicas avançadas de pesca."
+  },
+  "locations": {
+    "overviewTitle": "Locais de Fisch",
+    "overviewDescription": "Descubra todos os locais de Fisch — ilhas, pontos de pesca, coordenadas, capturas exclusivas e como desbloquear cada área."
+  },
+  "creatures": {
+    "overviewTitle": "Criaturas de Fisch",
+    "overviewDescription": "Navegue pelas criaturas e peixes de Fisch — entradas do bestiário, raridade, isca preferida e onde pescar cada espécie."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "codeScarletDesc": "Scarlet skin para a Nate's Blade",
+    "codeSubmarineDesc": "Peças de construção de submarino",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Sumário",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Fisch Wiki",
+    "about": "Fisch Wiki é um site independente de guias fan-made para o jogo Fisch do Roblox. Cobrimos códigos, varas, peixes, locais, progressão, eventos e guias para iniciantes. Este site não é afiliado à Roblox ou à Fisching.",
+    "quickLinks": "Links Rápidos",
+    "legal": "Jurídico",
+    "copyright": "© 2026 Fisch Wiki. Não afiliado à Fisching ou à Roblox.",
+    "description": "Guias fan-made para a aventura de pesca Fisch, do Roblox.",
+    "playGame": "Jogar Fisch no Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "Mídia Oficial de Lançamento (YouTube)",
+    "community": "r/FischRoblox (Comunidade Não Oficial)",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "copyrightPage": "Copyright",
+    "aboutPage": "Sobre"
+  }
+}

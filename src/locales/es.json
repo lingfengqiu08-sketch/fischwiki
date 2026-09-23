@@ -1,1 +1,472 @@
-{}
+{
+  "site": {
+    "name": "Fisch Wiki",
+    "shortName": "Fisch",
+    "tagline": "Wiki de la Comunidad, Hecha por Fans",
+    "description": "Wiki fan-made de Fisch (Roblox) con códigos activos, guías de cañas y peces, ubicaciones, consejos de progresión, eventos y ayuda para jugadores nuevos y que regresan.",
+    "legalNotice": "Wiki no oficial hecha por fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "codes": "Códigos",
+    "rods": "Cañas",
+    "enchants": "Encantamientos",
+    "values": "Valores",
+    "relics": "Reliquias",
+    "guide": "Guías",
+    "locations": "Ubicaciones",
+    "creatures": "Criaturas"
+  },
+  "home": {
+    "meta": {
+      "title": "Fisch Wiki — Códigos, Cañas, Peces y Guía para Principiantes",
+      "description": "Explora códigos de Fisch, cañas, peces, ubicaciones, consejos de progresión, eventos y guías para principiantes de Roblox. Referencia fan-made actualizada para jugadores nuevos y que regresan."
+    },
+    "hero": {
+      "eyebrow": "Wiki de la Comunidad, Hecha por Fans",
+      "title": "Fisch Wiki",
+      "description": "Lanza el sedal, descubre capturas raras, mejora tu equipo y explora el mundo en expansión de Fisch. Usa nuestras guías para dominar cañas, peces, ubicaciones, códigos y progresión, desde tu primera captura hasta las aventuras del late game.",
+      "stats": [
+        "Lanzado el 5 de oct. de 2024",
+        "Actualizado en sep. de 2026",
+        "4.800 M+ de visitas",
+        "3,6 M+ de favoritos",
+        "400.000+ variaciones de peces"
+      ],
+      "primaryCta": "Empezar la Guía para Principiantes",
+      "secondaryCta": "Explorar Cañas",
+      "tertiaryCta": "Ver Códigos Activos",
+      "videoLabel": "Material Oficial de Lanzamiento"
+    },
+    "updates": {
+      "title": "Últimas Novedades",
+      "browse": "Ver Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Aventura en Fisch",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Aprende cómo funciona la pesca, cómo ganar tu primer dinero, mejorar tu equipo y empezar a explorar el mundo con eficacia."
+        },
+        {
+          "number": "2",
+          "title": "Cañas y Progresión",
+          "description": "Entiende la progresión de las cañas, las estadísticas importantes y hacia qué trabajar al pasar del equipo inicial a aparejos de pesca más potentes."
+        },
+        {
+          "number": "3",
+          "title": "Peces y Bestiario",
+          "description": "Descubre peces, rarezas, requisitos de captura y las condiciones que afectan a lo que pescas en cada zona."
+        },
+        {
+          "number": "4",
+          "title": "Ubicaciones, Eventos y Secretos",
+          "description": "Explora islas, puntos de pesca, zonas especiales, eventos y contenido oculto por todo el mundo en expansión de Fisch."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencia Ahora",
+      "quickLinks": [
+        "Códigos de Fisch",
+        "Mejores Cañas",
+        "Ubicaciones de Peces",
+        "Guía para Principiantes"
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Fisch?",
+      "paragraphs": [
+        "Fisch es una aventura de pesca de Roblox centrada en la exploración, la colección y la progresión. Lanza el sedal, captura peces distintos, completa tu colección y mejora tu equipo de pesca mientras exploras un mundo en expansión.",
+        "Los peces pueden aparecer con una enorme variedad de variaciones, mientras que las nuevas ubicaciones, equipos y contenidos por tiempo limitado dan a los jugadores más motivos para explorar. La progresión gira en torno a aprender las mecánicas de pesca, descubrir mejores capturas y desarrollar equipos cada vez más capaces."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Fisching"
+        },
+        {
+          "label": "Creador Original",
+          "value": "WoozyNate"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulación"
+        },
+        {
+          "label": "Visitas",
+          "value": "4.800 M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "3,6 M+"
+        },
+        {
+          "label": "Jugadores por Servidor",
+          "value": "20"
+        },
+        {
+          "label": "Variaciones de Peces",
+          "value": "400.000+"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora la Fisch Wiki",
+      "description": "Ocho centros principales que cubren códigos de Fisch, cañas, peces, encantamientos, ubicaciones y guías de progresión paso a paso.",
+      "readFullGuide": "Leer la Guía Completa",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Fisch",
+          "description": "Sigue los últimos códigos de canje funcionales de Fisch y las recompensas que otorgan, desde skins de caña hasta piezas para construir el submarino.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SCARLET",
+              "detail": "Canjea 1 Scarlet Skin para la Nate's Blade.",
+              "badge": "Activo"
+            },
+            {
+              "label": "CARBON",
+              "detail": "Canjea 1 Carbon Bobber.",
+              "badge": "Activo"
+            },
+            {
+              "label": "TemporarySubmarine",
+              "detail": "Canjea 1 Back Fin, 1 Submarine Top, 1 Metal Panel, 1 Side Fin y 1 Window.",
+              "badge": "Activo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Fisch",
+          "description": "Aprende el bucle básico de pesca de Fisch paso a paso: el lanzado, atraer la picada, controlar la barra de pesca y completar tu primera captura.",
+          "href": "/guide/fisch-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantén pulsada la entrada para lanzar el flotador al agua."
+            },
+            {
+              "label": "2",
+              "detail": "Espera la picada; puedes sacudir la caña mientras esperas para atraer peces más rápido."
+            },
+            {
+              "label": "3",
+              "detail": "Tras la picada, mantén o haz clic para controlar la barra blanca y seguir la línea azul lo más de cerca posible."
+            },
+            {
+              "label": "4",
+              "detail": "Mantén la interacción de pesca hasta que la barra de progreso inferior se llene; entonces el pez se recoge."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Cañas de Fisch",
+          "description": "Compara las cañas destacadas de Fisch y dónde comprarlas a medida que avanzas más allá de la caña inicial, desde las opciones gratis de Moosewood hasta el equipo de seis cifras del endgame.",
+          "href": "/rods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Flimsy Rod",
+              "detail": "La caña inicial, disponible con el comerciante de Moosewood por C$0."
+            },
+            {
+              "label": "Training Rod",
+              "detail": "Disponible en el puesto de Moosewood por C$300."
+            },
+            {
+              "label": "Plastic Rod",
+              "detail": "Disponible en el puesto de Moosewood por C$900."
+            },
+            {
+              "label": "Carbon Rod",
+              "detail": "Disponible en el puesto de Moosewood por C$2.000."
+            },
+            {
+              "label": "Steady Rod",
+              "detail": "Se vende en la zona del Blacksmith de Roslit Bay por C$7.000."
+            },
+            {
+              "label": "Nocturnal Rod",
+              "detail": "Se encuentra en Vertigo tras entrar por un Strange Whirlpool, con precio de C$11.000."
+            },
+            {
+              "label": "Kings Rod",
+              "detail": "Ubicada en el Keepers Altar, con precio de C$120.000."
+            },
+            {
+              "label": "Trident Rod",
+              "detail": "Asociada a la zona del comerciante secreto de Desolate Deep, con precio de C$150.000."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Cañas de Fisch",
+          "description": "Compara las cañas del First Sea, desde las elecciones estelares del S-tier hasta los caballos de batalla fiables del A-tier para cada fase del juego.",
+          "href": "/rods/fisch-best-rods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Seraphic Rod, Ethereal Prism Rod, Challenger's Rod, Heaven's Rod, Rod of the Forgotten Fang, Zeus Rod, Rod of the Depths y No-Life Rod."
+            },
+            {
+              "label": "A",
+              "detail": "Kraken Rod, Trident Rod, Sunken Rod y Mythical Rod están entre las cañas A-tier del ranking del First Sea."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bestiario y Ubicaciones de Peces de Fisch",
+          "description": "Usa las condiciones de ubicación, rareza, clima, estación y cebo para enfocar capturas específicas de Fisch y completar las entradas del Bestiario.",
+          "href": "/creatures",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Blue Whale",
+              "detail": "Una captura Exotic de la Blue Whale Migration; prefiere clima Clear, verano y Shrimp."
+            },
+            {
+              "label": "Moby",
+              "detail": "Una captura Secret de la Blue Whale Migration; prefiere clima Clear, verano y Squid."
+            },
+            {
+              "label": "Lunar Monkfish",
+              "detail": "Un pez Mythical de Blue Moon Sea 1; prefiere clima Windy, invierno y cebo Shark Head."
+            },
+            {
+              "label": "Icy Dragonfish",
+              "detail": "Un pez Legendary de Blue Moon Sea 1; prefiere clima Foggy, invierno y cebo Truffle Worm."
+            },
+            {
+              "label": "Scylla",
+              "detail": "Un pez Secret en Mariana's Veil: Veil of the Forsaken; prefiere cebo Shark Head."
+            },
+            {
+              "label": "Grand Reef Guardian",
+              "detail": "Una captura Mythical de Grand Reef que prefiere cebo Truffle Worm."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Encantamientos de Fisch",
+          "description": "Los encantamientos modifican el rendimiento de la caña mediante velocidad de picada, suerte, resiliencia, control, bonificaciones de EXP y mutaciones valiosas.",
+          "href": "/enchants",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hasty",
+              "detail": "Reduce el tiempo de picada un 55%."
+            },
+            {
+              "label": "Clever",
+              "detail": "Otorga 2,25x de EXP en todas las capturas."
+            },
+            {
+              "label": "Quantum",
+              "detail": "Da un 25% de probabilidad de pescar un pez Subspace, que se vende por 5x su valor."
+            },
+            {
+              "label": "Mystical",
+              "detail": "Otorga +25% de Suerte, +45% de Resiliencia, +15% de Velocidad de Picada y +10% de Velocidad de Progreso."
+            },
+            {
+              "label": "Divine",
+              "detail": "Otorga +45% de Suerte, +20% de Resiliencia y +20% de Velocidad de Picada."
+            },
+            {
+              "label": "Controlled",
+              "detail": "Aumenta el Control de la caña en 0,15."
+            },
+            {
+              "label": "Resilient",
+              "detail": "Aumenta la Resiliencia de la caña un 35%."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mapa y Ubicaciones de Fisch",
+          "description": "Las ubicaciones clave de Fisch están ligadas a la progresión de cañas, los comerciantes, completar el Bestiario y el acceso a zonas avanzadas.",
+          "href": "/locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Moosewood",
+              "detail": "El puesto del comerciante de cañas iniciales está cerca de las coordenadas 465, 150, 230 y vende cañas tempranas como Training, Plastic, Carbon, Long, Fast y Lucky."
+            },
+            {
+              "label": "Roslit Bay",
+              "detail": "La zona del Blacksmith está cerca de -1515, 140, 765 y vende las cañas Steady, Fortune y Rapid."
+            },
+            {
+              "label": "Vertigo",
+              "detail": "Entra en Vertigo saltando a un Strange Whirlpool marcado por un pilar vertical de luz; la Nocturnal Rod y la Aurora Rod están asociadas a esta zona."
+            },
+            {
+              "label": "Desolate Deep",
+              "detail": "Una zona de comerciante secreta cerca de -990, -245, -2695 que incluye la Reinforced Rod y la Trident Rod."
+            },
+            {
+              "label": "The Arch",
+              "detail": "Ubicado cerca de la Statue of Sovereignty, alrededor de 980, 130, -1230; la Destiny Rod requiere más del 70% de finalización del Bestiario."
+            },
+            {
+              "label": "Northern Summit",
+              "detail": "Contiene varias ubicaciones de cañas, incluida la Arctic Rod cerca del comerciante del campamento base y la Avalanche Rod cerca del tercer campamento."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de la Rod of the Depths",
+          "description": "La Rod of the Depths está ligada a completar el Bestiario de Vertigo, Encant Relics especiales, The Depths Key y un laberinto dentro de The Depths.",
+          "href": "/guide/fisch-rod-progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prepara más de C$750.000, un Hexed Enchant Relic, un Abyssal Enchant Relic, el 100% del Bestiario de Vertigo incluido Isonade, y The Depths Key."
+            },
+            {
+              "label": "2",
+              "detail": "Si es necesario, consigue Encant Relics y usa el Tasador de Moosewood hasta obtener las variantes Hexed y Abyssal."
+            },
+            {
+              "label": "3",
+              "detail": "Entra en Vertigo por un Strange Whirlpool, completa su Bestiario y consigue The Depths Key pescando en Vertigo o en el Strange Whirlpool."
+            },
+            {
+              "label": "4",
+              "detail": "Dentro de The Depths, coloca el Hexed Enchant Relic en el altar de la cima de la cascada y el Abyssal Enchant Relic en el altar que hay bajo la estatua gigante."
+            },
+            {
+              "label": "5",
+              "detail": "Completa el laberinto bajo la estatua para llegar a la Rod of the Depths, que cuesta C$750.000."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre Fisch.",
+      "items": [
+        {
+          "question": "¿Qué es Fisch?",
+          "answer": "Fisch es una aventura de pesca gratuita de Roblox creada por Fisching y lanzada el 5 de octubre de 2024. Pescas, recoges y coleccionas en un mundo oceánico en expansión, con más de 400.000 variaciones posibles de peces, islas por explorar y cañas que mejorar. El juego ya supera los 4.800 millones de visitas."
+        },
+        {
+          "question": "¿Cómo canjeo códigos de Fisch?",
+          "answer": "Abre Fisch en Roblox e introduce un código válido en el menú de códigos del juego para reclamar recompensas como la Scarlet Skin, el Carbon Bobber o piezas para construir el submarino. La página de Códigos de la Fisch Wiki sigue todos los códigos activos y sus recompensas."
+        },
+        {
+          "question": "¿Cuál es la mejor caña de Fisch?",
+          "answer": "Todo pescador empieza con la Flimsy Rod gratis en Moosewood y avanza por las Training, Plastic y Carbon Rod hasta cañas de endgame como la Kings Rod (C$120.000) y la Rod of the Depths (C$750.000). La Tier List de Cañas de Fisch compara las cañas más populares por tier."
+        },
+        {
+          "question": "¿Dónde encuentro peces raros en Fisch?",
+          "answer": "Las capturas raras de Fisch dependen de la ubicación, el clima, la estación y el cebo. Por ejemplo, la Blue Whale Exotic aparece con clima Clear en verano usando cebo Shrimp, mientras que la Scylla se esconde en Mariana's Veil y prefiere cebo Shark Head. La página de Criaturas enumera las condiciones de cada entrada."
+        },
+        {
+          "question": "¿Fisch es gratis?",
+          "answer": "Sí, Fisch es gratis para jugar en Roblox y funciona en servidores de hasta 20 jugadores. Solo necesitas una cuenta de Roblox para empezar a pescar, y todas las cañas, peces y ubicaciones del juego se alcanzan jugando con normalidad."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Fisch?",
+      "description": "Desde tu primer lanzado hasta capturas raras, cañas avanzadas y ubicaciones ocultas, usa nuestras guías de Fisch para planificar tu progresión y explorar más el juego.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Fisch",
+    "overviewDescription": "Consulta todas las guías de códigos de Fisch — códigos activos y caducados, recompensas, requisitos de nivel e instrucciones de canje paso a paso para Roblox."
+  },
+  "rods": {
+    "overviewTitle": "Cañas de Fisch",
+    "overviewDescription": "Explora todas las cañas de Fisch — estadísticas, habilidades, las mejores cañas para el early y el late game, y cómo conseguir cada caña paso a paso."
+  },
+  "enchants": {
+    "overviewTitle": "Encantamientos de Fisch",
+    "overviewDescription": "Aprende cómo funciona el encantamiento en Fisch — tier lists de encantamientos, las mejores combinaciones por caña y cómo usar los Encant Relics."
+  },
+  "values": {
+    "overviewTitle": "Lista de Valores de Fisch",
+    "overviewDescription": "Consulta los valores de intercambio de peces y objetos de Fisch — listas de valores, tendencias de demanda y consejos para intercambios justos."
+  },
+  "relics": {
+    "overviewTitle": "Reliquias de Fisch",
+    "overviewDescription": "Encuentra todas las reliquias de Fisch — dónde conseguir Encant Relics, qué hace cada reliquia y qué reliquias merecen la pena."
+  },
+  "guide": {
+    "overviewTitle": "Guías de Fisch",
+    "overviewDescription": "Guías de Fisch para cada fase — lo básico para principiantes, rutas de progresión, progresión de cañas, análisis de actualizaciones y consejos avanzados de pesca."
+  },
+  "locations": {
+    "overviewTitle": "Ubicaciones de Fisch",
+    "overviewDescription": "Descubre todas las ubicaciones de Fisch — islas, puntos de pesca, coordenadas, capturas exclusivas y cómo desbloquear cada zona."
+  },
+  "creatures": {
+    "overviewTitle": "Criaturas de Fisch",
+    "overviewDescription": "Explora las criaturas y peces de Fisch — entradas del bestiario, rareza, cebo preferido y dónde pescar cada especie."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "codeScarletDesc": "Scarlet skin para la Nate's Blade",
+    "codeSubmarineDesc": "Piezas para construir el submarino",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de Contenidos",
+    "nextSteps": "Próximos Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Fisch Wiki",
+    "about": "Fisch Wiki es un sitio independiente de guías hechas por fans para el juego Fisch de Roblox. Cubrimos códigos, cañas, peces, ubicaciones, progresión, eventos y guías para principiantes. Este sitio no está afiliado a Roblox ni a Fisching.",
+    "quickLinks": "Enlaces Rápidos",
+    "legal": "Legal",
+    "copyright": "© 2026 Fisch Wiki. No afiliado a Fisching ni a Roblox.",
+    "description": "Guías fan-made para la aventura de pesca Fisch de Roblox.",
+    "playGame": "Jugar a Fisch en Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "Material Oficial de Lanzamiento (YouTube)",
+    "community": "r/FischRoblox (Comunidad No Oficial)",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "copyrightPage": "Copyright",
+    "aboutPage": "Acerca de"
+  }
+}

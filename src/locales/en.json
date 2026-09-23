@@ -126,6 +126,7 @@
     "explore": {
       "title": "Explore the Fisch Wiki",
       "description": "Eight core hubs covering Fisch codes, rods, fish, enchantments, locations and step-by-step progression guides.",
+      "readFullGuide": "Read Full Guide",
       "modules": [
         {
           "order": 1,
@@ -155,7 +156,7 @@
           "order": 2,
           "name": "Fisch Beginner Guide",
           "description": "Learn the core fishing loop in Fisch step by step: casting, attracting a bite, controlling the fishing bar and completing your first catch.",
-          "href": "/beginner-guide",
+          "href": "/guide/fisch-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -221,7 +222,7 @@
           "order": 4,
           "name": "Fisch Rod Tier List",
           "description": "See how First Sea rods stack up, from S-tier headline picks to dependable A-tier workhorses for every stage of the game.",
-          "href": "/rod-tier-list",
+          "href": "/rods/fisch-best-rods",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -238,7 +239,7 @@
           "order": 5,
           "name": "Fisch Bestiary and Fish Locations",
           "description": "Use location, rarity, weather, season and bait conditions to target specific Fisch catches and complete Bestiary entries.",
-          "href": "/bestiary",
+          "href": "/creatures",
           "displayType": "card-list",
           "highlights": [
             {
@@ -271,7 +272,7 @@
           "order": 6,
           "name": "Fisch Enchantments",
           "description": "Enchantments modify rod performance through lure speed, luck, resilience, control, experience boosts and valuable mutations.",
-          "href": "/enchantments",
+          "href": "/enchants",
           "displayType": "card-list",
           "highlights": [
             {
@@ -341,7 +342,7 @@
           "order": 8,
           "name": "Fisch Rod of the Depths Guide",
           "description": "The Rod of the Depths is tied to Vertigo Bestiary completion, special Enchant Relics, The Depths Key and a maze inside The Depths.",
-          "href": "/guides/rod-of-the-depths",
+          "href": "/guide/fisch-rod-progression",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -438,6 +439,8 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
+    "codeScarletDesc": "Scarlet skin for Nate's Blade",
+    "codeSubmarineDesc": "Submarine building parts",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",

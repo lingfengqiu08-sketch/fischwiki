@@ -475,12 +475,15 @@
     "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
     "playGame": "Fisch をプレイ",
     "officialDiscord": "公式 Discord",
-    "officialYoutube": "公式 YouTube",
+    "officialYoutube": "公式ローンチ映像（YouTube）",
+    "community": "r/FischRoblox（非公式コミュニティ）",
     "beginnerGuide": "初心者ガイド",
     "raceGuides": "種族ガイド",
     "bossGuides": "ボスガイド",
     "buildGuide": "ビルドガイド",
     "privacyPolicy": "プライバシーポリシー",
-    "termsOfService": "利用規約"
+    "termsOfService": "利用規約",
+    "copyrightPage": "著作権",
+    "aboutPage": "サイトについて"
   }
 }

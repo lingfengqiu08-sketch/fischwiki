@@ -6,7 +6,7 @@ import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://fischwiki.wiki";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.fischwiki.wiki";
 
 type Messages = typeof en;
 

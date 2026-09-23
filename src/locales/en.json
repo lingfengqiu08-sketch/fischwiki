@@ -33,7 +33,7 @@
       "videoLabel": "Official Launch Media"
     },
     "updates": {
-      "title": "动态更新",
+      "title": "Latest Updates",
       "browse": "Browse All Guides",
       "viewAll": "View All"
     },
@@ -44,22 +44,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn how fishing works, how to earn your first cash, upgrade your equipment and start exploring the world efficiently."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Rods & Progression",
+          "description": "Understand rod progression, important stats and what to work toward as you move from early-game equipment to stronger fishing gear."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fish & Bestiary",
+          "description": "Discover fish, rarities, catch requirements and the conditions that can affect what you reel in across different areas."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Fisch."
+          "title": "Locations, Events & Secrets",
+          "description": "Explore islands, fishing spots, special areas, events and hidden content throughout the expanding Fisch world."
         }
       ]
     },
@@ -67,73 +67,17 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
-      ],
-      "cards": [
-        {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
-        }
+        "Fisch Codes",
+        "Best Rods",
+        "Fish Locations",
+        "Beginner Guide"
       ]
     },
     "aboutGame": {
       "title": "What is Fisch?",
       "paragraphs": [
-        "Fisch is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Fisch is a Roblox fishing adventure focused on exploration, collecting and progression. Cast your line, reel in different catches, build your collection and improve your fishing equipment as you explore an expanding world.",
+        "Fish can appear with a huge range of variations, while new locations, equipment and limited-time content give players more reasons to explore. Progression revolves around learning fishing mechanics, discovering better catches and developing increasingly capable gear."
       ],
       "stats": [
         {
@@ -141,46 +85,60 @@
           "value": "Fisching"
         },
         {
+          "label": "Original Creator",
+          "value": "WoozyNate"
+        },
+        {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Simulation"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "4.8B+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "3.6M+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Server Size",
+          "value": "20"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Fish Variations",
+          "value": "400K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Fisch Homepage Modules Navigation",
-      "description": "Jump straight to the eight homepage sections and scroll to the module you need.",
+      "title": "Explore the Fisch Wiki",
+      "description": "Eight core hubs covering Fisch codes, rods, fish, enchantments, locations and step-by-step progression guides.",
       "modules": [
         {
           "order": 1,
           "name": "Fisch Codes",
-          "description": "Redeem the current Fisch code before spending rerolls so you can test faction ideas with more room to pivot.",
+          "description": "Track the latest working Fisch redeem codes and the rewards they grant, from rod skins to submarine building parts.",
           "href": "/codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "day1",
-              "detail": "3× Clan Reroll + Token Booster + Focus Elixir",
+              "label": "SCARLET",
+              "detail": "Redeems for 1 Scarlet Skin for Nate's Blade.",
+              "badge": "Active"
+            },
+            {
+              "label": "CARBON",
+              "detail": "Redeems for 1 Carbon Bobber.",
+              "badge": "Active"
+            },
+            {
+              "label": "TemporarySubmarine",
+              "detail": "Redeems for 1 Back Fin, 1 Submarine Top, 1 Metal Panel, 1 Side Fin, and 1 Window.",
               "badge": "Active"
             }
           ]
@@ -188,207 +146,215 @@
         {
           "order": 2,
           "name": "Fisch Beginner Guide",
-          "description": "Use the first hour to lock in a faction route, learn the live controls, and push quests instead of burning resources on random rerolls.",
-          "href": "/guide/fisch-beginner-guide-2026",
+          "description": "Learn the core fishing loop in Fisch step by step: casting, attracting a bite, controlling the fishing bar and completing your first catch.",
+          "href": "/beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Choose a faction route before spending rerolls"
+              "detail": "Hold down the input to cast your bobber into the water."
             },
             {
               "label": "2",
-              "detail": "Finish the opening path and learn the live controls"
+              "detail": "Wait for a bite; you can shake your rod while waiting to attract fish faster."
             },
             {
               "label": "3",
-              "detail": "Redeem the launch code once the Shop unlocks"
+              "detail": "After a bite, hold or click to control the white bar and follow the blue line as closely as possible."
             },
             {
               "label": "4",
-              "detail": "Push story quests before side grinding"
-            },
-            {
-              "label": "5",
-              "detail": "Start mission systems as soon as they open"
-            },
-            {
-              "label": "6",
-              "detail": "Spend early points around one damage plan"
+              "detail": "Keep the fishing interaction going until the progress bar at the bottom fills, then the fish is reeled in."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Fisch Official Links",
-          "description": "Verified destinations worth bookmarking for the real game page, community channels, and official video feed.",
-          "href": "/codes",
+          "name": "Fisch Rods",
+          "description": "Compare notable Fisch rods and where to buy them as you progress beyond the starter rod, from free Moosewood picks to six-figure endgame gear.",
+          "href": "/rods",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🎮",
-              "detail": "Fisch on Roblox"
+              "label": "Flimsy Rod",
+              "detail": "The starting rod, available from the Moosewood merchant for C$0."
             },
             {
-              "label": "💬",
-              "detail": "Official Discord Server"
+              "label": "Training Rod",
+              "detail": "Available from the Moosewood merchant stand for C$300."
             },
             {
-              "label": "📺",
-              "detail": "Official YouTube Channel"
+              "label": "Plastic Rod",
+              "detail": "Available from the Moosewood merchant stand for C$900."
             },
             {
-              "label": "🐦",
-              "detail": "Fisch on X"
+              "label": "Carbon Rod",
+              "detail": "Available from the Moosewood merchant stand for C$2,000."
             },
             {
-              "label": "🎵",
-              "detail": "Fisch on TikTok"
+              "label": "Steady Rod",
+              "detail": "Sold in the Roslit Bay Blacksmith area for C$7,000."
             },
             {
-              "label": "👥",
-              "detail": "Roblox Community Group"
+              "label": "Nocturnal Rod",
+              "detail": "Found in Vertigo after entering through a Strange Whirlpool, priced at C$11,000."
+            },
+            {
+              "label": "Kings Rod",
+              "detail": "Located at the Keepers Altar, priced at C$120,000."
+            },
+            {
+              "label": "Trident Rod",
+              "detail": "Associated with the secret merchant area in Desolate Deep, priced at C$150,000."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Fisch Clans Tier List",
-          "description": "Treat Clan Rerolls as route-shaping resources. The best keeps depend on faction identity.",
-          "href": "/tier-list",
+          "name": "Fisch Rod Tier List",
+          "description": "See how First Sea rods stack up, from S-tier headline picks to dependable A-tier workhorses for every stage of the game.",
+          "href": "/rod-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Kurosaki · Shihoin · Cifer — Do not reroll"
+              "detail": "Seraphic Rod, Ethereal Prism Rod, Challenger's Rod, Heaven's Rod, Rod of the Forgotten Fang, Zeus Rod, Rod of the Depths, and No-Life Rod."
             },
             {
               "label": "A",
-              "detail": "Eisenhauer · Ishida · Kamamura · Aaroniero — Keep for build"
-            },
-            {
-              "label": "B",
-              "detail": "Parnkgjas · Hitsugaya · Antenor — Good for leveling"
-            },
-            {
-              "label": "C",
-              "detail": "Schulte · Madarame · Calius — Reroll when affordable"
+              "detail": "Kraken Rod, Trident Rod, Sunken Rod, and Mythical Rod are among the A-tier rods in the First Sea ranking."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Fisch Skill Tree Tier List",
-          "description": "Builds work best when players choose a clear combat core instead of spreading Skill Points across unrelated routes.",
-          "href": "/skills/fisch-best-skills-ranked",
-          "displayType": "tier-grid",
+          "name": "Fisch Bestiary and Fish Locations",
+          "description": "Use location, rarity, weather, season and bait conditions to target specific Fisch catches and complete Bestiary entries.",
+          "href": "/bestiary",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Hakuda (melee combos) · Speed (mobility core)"
+              "label": "Blue Whale",
+              "detail": "An Exotic catch from Blue Whale Migration; prefers Clear weather, Summer and Shrimp."
             },
             {
-              "label": "A",
-              "detail": "Quincy (bow pressure) · Strength (heavy hits) · Shinigami (Kido control)"
+              "label": "Moby",
+              "detail": "A Secret catch from Blue Whale Migration; prefers Clear weather, Summer and Squid."
             },
             {
-              "label": "B",
-              "detail": "Hollow / Arrancar (Cero burst windows)"
+              "label": "Lunar Monkfish",
+              "detail": "A Mythical Blue Moon Sea 1 fish; favors Windy weather, Winter and Shark Head bait."
             },
             {
-              "label": "Utility",
-              "detail": "Sense (target reading) · Misc (universal combat tools)"
+              "label": "Icy Dragonfish",
+              "detail": "A Legendary Blue Moon Sea 1 fish; favors Foggy weather, Winter and Truffle Worm bait."
+            },
+            {
+              "label": "Scylla",
+              "detail": "A Secret fish in Mariana's Veil: Veil of the Forsaken; prefers Shark Head bait."
+            },
+            {
+              "label": "Grand Reef Guardian",
+              "detail": "A Mythical Grand Reef catch that prefers Truffle Worm bait."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Fisch Weapons Tier List",
-          "description": "Weapon choices are tied to race. Quincy get the clearest starter list, while Shinigami focus on Zanpakuto growth.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Fisch Enchantments",
+          "description": "Enchantments modify rod performance through lure speed, luck, resilience, control, experience boosts and valuable mutations.",
+          "href": "/enchantments",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Sword — Balanced all-rounder, safest Quincy starter"
+              "label": "Hasty",
+              "detail": "Decreases lure time by 55%."
             },
             {
-              "label": "A",
-              "detail": "Spear (long reach) · Longsword (safe range)"
+              "label": "Clever",
+              "detail": "Grants 2.25x EXP on all catches."
             },
             {
-              "label": "B",
-              "detail": "Greatsword · Hammer · Club — Heavy or niche pressure"
+              "label": "Quantum",
+              "detail": "Gives a 25% chance to catch a Subspace fish, which sells for 5x value."
             },
             {
-              "label": "C",
-              "detail": "Rifle · Rapier — Playable but outclassed"
+              "label": "Mystical",
+              "detail": "Provides +25% Luck, +45% Resilience, +15% Lure Speed and +10% Progress Speed."
+            },
+            {
+              "label": "Divine",
+              "detail": "Provides +45% Luck, +20% Resilience and +20% Lure Speed."
+            },
+            {
+              "label": "Controlled",
+              "detail": "Increases rod Control by 0.15."
+            },
+            {
+              "label": "Resilient",
+              "detail": "Increases rod Resilience by 35%."
             }
           ]
         },
         {
           "order": 7,
-          "name": "Fisch Hollow Progression Guide",
-          "description": "Hollow progression rewards patience: rushing mask removal too early can leave the final build weaker than necessary.",
-          "href": "/guide/Fisch-bleach",
-          "displayType": "step-by-step",
+          "name": "Fisch Map and Locations",
+          "description": "Key Fisch locations are tied to rod progression, merchants, Bestiary completion and access to advanced areas.",
+          "href": "/locations",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Choose a Hollow Type (Gorilla, Lizard, Turtle, Centipede)"
+              "label": "Moosewood",
+              "detail": "The starter rod merchant stand sits around coordinates 465, 150, 230 and sells early rods including Training, Plastic, Carbon, Long, Fast and Lucky."
             },
             {
-              "label": "2",
-              "detail": "Consume Hollows and collect matching traits"
+              "label": "Roslit Bay",
+              "detail": "The Blacksmith area sits around -1515, 140, 765 and sells Steady, Fortune and Rapid rods."
             },
             {
-              "label": "3",
-              "detail": "Advance from base Hollow → Menos → Adjuchas"
+              "label": "Vertigo",
+              "detail": "Enter Vertigo by jumping into a Strange Whirlpool marked by a vertical pillar of light; the Nocturnal Rod and Aurora Rod are associated with this area."
             },
             {
-              "label": "4",
-              "detail": "Push to Vasto Lorde for the 4-trait ceiling"
+              "label": "Desolate Deep",
+              "detail": "A secret merchant area around -990, -245, -2695 includes the Reinforced Rod and Trident Rod."
             },
             {
-              "label": "5",
-              "detail": "Remove mask → Become Arrancar or Vastocar"
+              "label": "The Arch",
+              "detail": "Located near the Statue of Sovereignty around 980, 130, -1230; the Destiny Rod requires more than 70% Bestiary completion."
             },
             {
-              "label": "6",
-              "detail": "Meditate and win the Resurrection Fight"
+              "label": "Northern Summit",
+              "detail": "Contains several rod locations, including the Arctic Rod near the base-camp merchant and the Avalanche Rod near the third camp."
             }
           ]
         },
         {
           "order": 8,
-          "name": "Fisch Shinigami Progression Guide",
-          "description": "The Shinigami route is built around steady questing, Soul Pager missions, meditation timing, and the eventual Shikai fight.",
-          "href": "/races/fisch-shinigami-guide",
+          "name": "Fisch Rod of the Depths Guide",
+          "description": "The Rod of the Depths is tied to Vertigo Bestiary completion, special Enchant Relics, The Depths Key and a maze inside The Depths.",
+          "href": "/guides/rod-of-the-depths",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Run Main Story Quests to unlock the progression loop"
+              "detail": "Prepare more than C$750,000, a Hexed Enchant Relic, an Abyssal Enchant Relic, 100% Vertigo Bestiary completion including Isonade, and The Depths Key."
             },
             {
               "label": "2",
-              "detail": "Unlock Soul Society and buy the Soul Pager"
+              "detail": "If needed, obtain Enchant Relics and use the Moosewood Appraiser until you have both Hexed and Abyssal variants."
             },
             {
               "label": "3",
-              "detail": "Reach Level 25 and start meditation"
+              "detail": "Enter Vertigo through a Strange Whirlpool, complete its Bestiary, and obtain The Depths Key by fishing in Vertigo or the Strange Whirlpool."
             },
             {
               "label": "4",
-              "detail": "Respond to Spirit Whispers for Shikai EXP"
+              "detail": "Inside The Depths, place the Hexed Enchant Relic on the altar at the top of the waterfall and the Abyssal Enchant Relic on the altar below the giant statue."
             },
             {
               "label": "5",
-              "detail": "Solve the Bells Puzzle in the Inner World"
-            },
-            {
-              "label": "6",
-              "detail": "Fight the Shikai NPC and unlock Shikai weapon"
+              "detail": "Complete the maze below the statue to reach the Rod of the Depths, which costs C$750,000."
             }
           ]
         }
@@ -400,23 +366,23 @@
       "items": [
         {
           "question": "What is Fisch?",
-          "answer": "Fisch is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of three races Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Fisch is a free-to-play fishing adventure on Roblox by Fisching, released on October 5, 2024. You cast, reel and collect across an expanding ocean world with 400,000+ possible fish variations, islands to explore and rods to upgrade. The game has passed 4.8 billion visits."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Fisch codes?",
+          "answer": "Open Fisch on Roblox and enter a working code in the game's codes menu to claim rewards such as the Scarlet Skin, Carbon Bobber or submarine building parts. The Fisch Wiki Codes page tracks every currently active code and its reward."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the best rod in Fisch?",
+          "answer": "Every angler starts with the free Flimsy Rod at Moosewood and works up through Training, Plastic and Carbon Rods to endgame picks like the Kings Rod (C$120,000) and the Rod of the Depths (C$750,000). The Fisch Rod Tier List compares the most popular rods by tier."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where do I find rare fish in Fisch?",
+          "answer": "Rare Fisch catches depend on location, weather, season and bait. For example, the Exotic Blue Whale appears during Clear Summer weather with Shrimp bait, while Scylla hides in Mariana's Veil and prefers Shark Head bait. The Bestiary page lists the conditions for every entry."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Fisch free to play?",
+          "answer": "Yes, Fisch is free to play on Roblox and runs on servers of up to 20 players. You only need a Roblox account to start fishing, and all of the game's rods, fish and locations can be reached through normal play."
         }
       ]
     },

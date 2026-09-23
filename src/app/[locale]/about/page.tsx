@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Fisch Wiki is an independent fan-made guide site for the Roblox fishing adventure Fisch. We cover codes, rods, fish, locations, progression, events and beginner guides. This site is not affiliated with Roblox or Fisching.</p>
+      <p>All guides are written for the Roblox game Fisch and updated as the game evolves. Always verify important details in-game or through official channels.</p>
     </LegalPage>
   );
 }

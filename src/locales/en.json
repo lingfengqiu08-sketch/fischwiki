@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
+    "name": "Fisch Wiki",
+    "shortName": "Fisch",
     "tagline": "Fan-Made Community Wiki",
-    "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
+    "description": "Fan-made Fisch Wiki for Roblox with active codes, rod and fish guides, locations, progression tips, events, and beginner help for new and returning players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -21,24 +21,24 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — Codes, Builds, Guides | VV Ultimatum Wiki",
-      "description": "Complete VV: ULTIMATUM wiki with active codes, boss strategies, race guides, build optimization, and progression walkthroughs for Shinigami, Quincy, and Hollow."
+      "title": "Fisch Wiki — Codes, Rods, Fish & Beginner Guide",
+      "description": "Explore Fisch codes, rods, fish, locations, progression tips, events, and beginner guides for Roblox. Updated fan-made reference for new and returning players."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
+      "title": "Fisch Wiki",
+      "description": "Cast your line, discover rare catches, upgrade your gear and explore the expanding world of Fisch. Use our guides to understand rods, fish, locations, codes and progression from your first catch to late-game adventures.",
       "stats": [
-        "Launched Jun 5",
-        "Updated Jun 11",
-        "3 Races",
-        "Lv100 Cap",
-        "130+ Skills"
+        "Launched Oct 5, 2024",
+        "Updated Sep 2026",
+        "4.8B+ Visits",
+        "3.6M+ Favorites",
+        "400K+ Fish Variations"
       ],
       "primaryCta": "Start Beginner Guide",
-      "secondaryCta": "Compare Races",
+      "secondaryCta": "Explore Rods",
       "tertiaryCta": "Check Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official Launch Media"
     },
     "updates": {
       "title": "动态更新",
@@ -47,7 +47,7 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your VV Ultimatum Journey",
+      "title": "Your Fisch Journey",
       "cards": [
         {
           "number": "1",
@@ -67,7 +67,7 @@
         {
           "number": "4",
           "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in VV Ultimatum."
+          "description": "Learn the best methods and locations for extracting resources in Fisch."
         }
       ]
     },
@@ -138,15 +138,15 @@
       ]
     },
     "aboutGame": {
-      "title": "What is VV: ULTIMATUM?",
+      "title": "What is Fisch?",
       "paragraphs": [
-        "VV: ULTIMATUM is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
+        "Fisch is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
         "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Fisching"
         },
         {
           "label": "Platform",
@@ -176,13 +176,13 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "VV Ultimatum Homepage Modules Navigation",
+      "title": "Fisch Homepage Modules Navigation",
       "description": "Jump straight to the eight homepage sections and scroll to the module you need.",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum Codes",
-          "description": "Redeem the current VV Ultimatum code before spending rerolls so you can test faction ideas with more room to pivot.",
+          "name": "Fisch Codes",
+          "description": "Redeem the current Fisch code before spending rerolls so you can test faction ideas with more room to pivot.",
           "href": "/codes",
           "displayType": "code-cards",
           "highlights": [
@@ -195,9 +195,9 @@
         },
         {
           "order": 2,
-          "name": "VV Ultimatum Beginner Guide",
+          "name": "Fisch Beginner Guide",
           "description": "Use the first hour to lock in a faction route, learn the live controls, and push quests instead of burning resources on random rerolls.",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "href": "/guide/fisch-beginner-guide-2026",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -228,14 +228,14 @@
         },
         {
           "order": 3,
-          "name": "VV Ultimatum Official Links",
+          "name": "Fisch Official Links",
           "description": "Verified destinations worth bookmarking for the real game page, community channels, and official video feed.",
           "href": "/codes",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "🎮",
-              "detail": "VV: ULTIMATUM on Roblox"
+              "detail": "Fisch on Roblox"
             },
             {
               "label": "💬",
@@ -247,11 +247,11 @@
             },
             {
               "label": "🐦",
-              "detail": "VV Ultimatum on X"
+              "detail": "Fisch on X"
             },
             {
               "label": "🎵",
-              "detail": "VV Ultimatum on TikTok"
+              "detail": "Fisch on TikTok"
             },
             {
               "label": "👥",
@@ -261,7 +261,7 @@
         },
         {
           "order": 4,
-          "name": "VV Ultimatum Clans Tier List",
+          "name": "Fisch Clans Tier List",
           "description": "Treat Clan Rerolls as route-shaping resources. The best keeps depend on faction identity.",
           "href": "/tier-list",
           "displayType": "tier-grid",
@@ -286,9 +286,9 @@
         },
         {
           "order": 5,
-          "name": "VV Ultimatum Skill Tree Tier List",
+          "name": "Fisch Skill Tree Tier List",
           "description": "Builds work best when players choose a clear combat core instead of spreading Skill Points across unrelated routes.",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
+          "href": "/skills/fisch-best-skills-ranked",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -311,7 +311,7 @@
         },
         {
           "order": 6,
-          "name": "VV Ultimatum Weapons Tier List",
+          "name": "Fisch Weapons Tier List",
           "description": "Weapon choices are tied to race. Quincy get the clearest starter list, while Shinigami focus on Zanpakuto growth.",
           "href": "/tier-list",
           "displayType": "tier-grid",
@@ -336,9 +336,9 @@
         },
         {
           "order": 7,
-          "name": "VV Ultimatum Hollow Progression Guide",
+          "name": "Fisch Hollow Progression Guide",
           "description": "Hollow progression rewards patience: rushing mask removal too early can leave the final build weaker than necessary.",
-          "href": "/guide/VV-Ultimatum-bleach",
+          "href": "/guide/Fisch-bleach",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -369,9 +369,9 @@
         },
         {
           "order": 8,
-          "name": "VV Ultimatum Shinigami Progression Guide",
+          "name": "Fisch Shinigami Progression Guide",
           "description": "The Shinigami route is built around steady questing, Soul Pager missions, meditation timing, and the eventual Shikai fight.",
-          "href": "/races/vv-ultimatum-shinigami-guide",
+          "href": "/races/fisch-shinigami-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -404,11 +404,11 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about VV: ULTIMATUM.",
+      "description": "Quick answers to the most common questions about Fisch.",
       "items": [
         {
-          "question": "What is VV: ULTIMATUM?",
-          "answer": "VV: ULTIMATUM is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of three races Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Fisch?",
+          "answer": "Fisch is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of three races Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
         },
         {
           "question": "Which race should beginners pick?",
@@ -429,20 +429,20 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master VV: ULTIMATUM?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Fisch?",
+      "description": "From your first cast to rare catches, advanced rods and hidden locations, use our Fisch guides to plan your progression and explore more of the game.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | VV Ultimatum Wiki",
-      "description": "Complete boss guides for VV: ULTIMATUM — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | Fisch Wiki",
+      "description": "Complete boss guides for Fisch — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in VV: ULTIMATUM 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in VV: ULTIMATUM serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in Fisch 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
+    "body": "Bosses in Fisch serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -466,22 +466,19 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Fisch Wiki",
+    "about": "Fisch Wiki is an independent fan-made guide site for the Roblox game Fisch. We cover codes, rods, fish, locations, progression, events and beginner guides. This site is not affiliated with Roblox or Fisching.",
     "quickLinks": "Quick Links",
-    "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 VV: ULTIMATUM Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play VV: ULTIMATUM",
+    "copyright": "© 2026 Fisch Wiki. Not affiliated with Fisching or Roblox.",
+    "description": "Fan-made guides for the Roblox fishing adventure Fisch.",
+    "playGame": "Play Fisch on Roblox",
     "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "officialYoutube": "Official Launch Media (YouTube)",
+    "community": "r/FischRoblox (Unofficial Community)",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "copyrightPage": "Copyright",
+    "aboutPage": "About"
   }
 }

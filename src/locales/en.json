@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "codes": "Codes",
+    "rods": "Rods",
+    "enchants": "Enchants",
+    "values": "Values",
+    "relics": "Relics",
+    "guide": "Guide",
+    "locations": "Locations",
+    "creatures": "Creatures"
   },
   "home": {
     "meta": {
@@ -393,7 +401,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "codes": {
+    "overviewTitle": "Fisch Codes",
+    "overviewDescription": "Browse all Fisch codes guides — active and expired codes, rewards, level requirements, and step-by-step redemption instructions for Roblox."
+  },
+  "rods": {
+    "overviewTitle": "Fisch Rods",
+    "overviewDescription": "Explore every rod in Fisch — stats, abilities, best rods for early and late game, and how to get each rod step by step."
+  },
+  "enchants": {
+    "overviewTitle": "Fisch Enchants",
+    "overviewDescription": "Learn how enchanting works in Fisch — enchant tier lists, best enchant combos per rod, and how to use enchant relics."
+  },
+  "values": {
+    "overviewTitle": "Fisch Value List",
+    "overviewDescription": "Check Fisch trading values for fish and items — value lists, demand trends, and trading tips for fair trades."
+  },
+  "relics": {
+    "overviewTitle": "Fisch Relics",
+    "overviewDescription": "Find every relic in Fisch — where to get enchant relics, what each relic does, and which relics are worth using."
+  },
+  "guide": {
+    "overviewTitle": "Fisch Guides",
+    "overviewDescription": "Fisch guides for every stage — beginner basics, progression paths, rod progression, update breakdowns, and advanced fishing tips."
+  },
+  "locations": {
+    "overviewTitle": "Fisch Locations",
+    "overviewDescription": "Discover every location in Fisch — islands, fishing spots, coordinates, exclusive catches, and how to unlock each area."
+  },
+  "creatures": {
+    "overviewTitle": "Fisch Creatures",
+    "overviewDescription": "Browse Fisch creatures and fish — bestiary entries, rarity, preferred bait, and where to catch each species."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

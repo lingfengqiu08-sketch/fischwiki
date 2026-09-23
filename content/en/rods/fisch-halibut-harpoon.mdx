@@ -1,0 +1,184 @@
+export const metadata = {
+  title: "Fisch Halibut Harpoon Guide: Stats, Abilities, Bait Scaling, and Unlock Requirements",
+  description: "Learn how to unlock the Fisch Halibut Harpoon, understand its stats, mutations, harpoon mechanic, bait scaling, and available skins.",
+  category: "rods",
+  date: "2026-09-23",
+}
+
+The **Fisch Halibut Harpoon** combines extreme fishing stats with a minigame mechanic that can accelerate catches and increase their final weight. That matters because the **Fisch Halibut Harpoon** is not merely a high-Luck rod—it rewards bait selection, accurate bar control, and Perfect Catches. If you are approaching Fisch’s late game, this guide explains its requirements, abilities, scaling formulas, and practical strengths without spoiling unconfirmed quest steps.
+
+## Fisch Halibut Harpoon Stats at a Glance
+
+The Halibut Harpoon is a **Stage 10** fishing rod intended for advanced players. Its listed level requirement is 1,000, placing it well beyond ordinary progression rods.
+
+Stage ratings describe approximate obtainment difficulty rather than raw power, so Stage 10 should not be treated as a formal guarantee that it outperforms every lower-stage option. Even so, the rod’s base statistics clearly establish it as a late-game tool.
+
+| Stat | Halibut Harpoon value | Practical effect |
+|---|---:|---|
+| Required level | 1,000 | Restricts the rod to highly progressed accounts |
+| Stage | 10 | Indicates a very difficult acquisition process |
+| Lure Speed | 132% | Produces an effective wait time listed as 0 seconds |
+| Luck | 288% | Strongly improves the quality of catches |
+| Control | 0.10 | Adds 10% control and creates a 40%-wide reeling bar |
+| Resilience | 56% | Helps manage difficult fish movement |
+| Maximum Weight | Infinite | Allows the rod to catch fish of any weight |
+| Durability | 200 | Supports fishing in hazardous liquids |
+| Line Distance | 150 meters | Offers substantial casting range |
+
+Its **infinite maximum weight** is one of the most important advantages. You do not need to worry about a valuable fish exceeding the rod’s capacity, making it suitable for enormous specimens and weight-focused farming.
+
+The 200 Durability rating also lets it operate in several unusual environments:
+
+- Lava pools
+- Noxious Fluid pools
+- Brine pools
+- Standard fishing water
+
+The rod’s 0.10 Control results in a reeling bar covering approximately 40% of the minigame. That is comfortable for many catches, although maintaining the fish inside the bar remains important because of how the harpoon passive works.
+
+One limitation is its **0.15 Control cap**. Additional Control generally cannot push it beyond that value, although Snail bait is reported to bypass the cap.
+
+## How the Harpoon Abilities and Mutations Work
+
+The defining feature of the Fisch Halibut Harpoon is its barrage of homing projectiles during the reeling minigame. These harpoons can add catch progress and contribute to a major weight multiplier.
+
+The rod also provides a permanent 20% fish-weight bonus and access to three valuable mutations.
+
+| Ability | Chance or value | Result |
+|---|---:|---|
+| Base fish-weight bonus | +20% | Makes every successful catch heavier |
+| Bathyal mutation | 20% | Applies a 7× value multiplier |
+| Thalassic mutation | 20% | Applies a 9× value multiplier |
+| Hadal mutation on a Perfect Catch | 10% | Can apply an 11× multiplier over the current mutation |
+| Harpoon barrage | 15–35 harpoons | Projectiles target positions in the reeling minigame |
+| Base progress per hit | +1% | Advances the catch when conditions are met |
+| Base critical chance | 5% | A critical hit adds another 1% progress |
+| Harpoon weight condition | 15 landed harpoons | Multiplies final fish weight by 1.7× |
+
+The Hadal effect follows the game’s mutation priority and value rules. In other words, it cannot replace an existing mutation if that mutation has greater value or higher priority.
+
+### Getting progress from the harpoons
+
+An exclamation mark warns you where an incoming harpoon will land. For that impact to increase progress, the fish must be inside your control bar when the projectile arrives.
+
+That creates a simple but important gameplay loop:
+
+1. Watch for the exclamation mark.
+2. Keep the fish inside the control zone.
+3. Align the bar with the marked impact area where possible.
+4. Repeat until enough harpoons have connected.
+5. Preserve a clean catch if you are pursuing the Perfect Catch Hadal chance.
+
+A standard hit adds 1% progress. A critical hit provides an additional 1%, bringing that impact’s contribution to 2% before bait-based adjustments. Landing at least 15 valid harpoons also triggers the **1.7× final-weight multiplier**, which stacks especially well with the rod’s innate 20% weight bonus.
+
+For example, suppose a catch would normally finish at 100 kg. The permanent weight passive raises that baseline to 120 kg. If the 15-harpoon condition then applies to final weight as described, the result would be approximately **204 kg** before considering any other relevant effects:
+
+| Calculation step | Formula | Result |
+|---|---:|---:|
+| Original fish weight | — | 100 kg |
+| Rod’s 20% bonus | 100 × 1.20 | 120 kg |
+| Harpoon multiplier | 120 × 1.70 | 204 kg |
+
+Actual in-game results can vary if other bonuses, mutations, or rounding rules are involved.
+
+Harpoon barrages normally occur at intervals during reeling. Against Progress Locked fish, activation depends on the bait-adjusted Harpoon Interval. Community reports also note an unusual 1% outcome in which only one harpoon appears when reeling begins.
+
+## Best Bait Stats for the Fisch Halibut Harpoon
+
+Bait does more than provide its usual fishing bonuses with this rod. Four bait statistics directly change the harpoon system: Universal Luck, Preferred Luck, Resilience, and Lure Speed.
+
+| Bait stat | Harpoon attribute affected | Base value | Allowed range | Scaling formula |
+|---|---|---:|---:|---|
+| Universal Luck | Critical chance | 5% | 1%–10% | Universal Luck × 0.15 + 5% |
+| Preferred Luck | Minimum harpoon count | 15 | 15–25 | Preferred Luck × 0.08 + 15 |
+| Resilience | Progress per harpoon | 1% | 1%–5% | Resilience × 0.02 + 1% |
+| Lure Speed | Harpoon interval | 5 seconds | 1–5 seconds | Lure Speed × -0.06 + 5 seconds |
+
+Values are constrained by the listed minimums and maximums. A negative bait statistic therefore cannot reduce an attribute indefinitely, while an exceptionally high stat cannot exceed its cap.
+
+### Comparing Bagel and Gale Grub
+
+The known examples demonstrate why there is no universally superior bait. One bait may generate stronger individual barrages, while another causes them more frequently.
+
+| Bait | Harpoon crit chance | Minimum count | Progress per hit | Interval |
+|---|---:|---:|---:|---:|
+| Bagel | 5% | 21 | 1.3% | 5 seconds |
+| Gale Grub | 3.5% | 22 | 1% | 3.2 seconds |
+
+**Bagel** is the more balanced option in this comparison. Its positive Resilience raises progress per valid impact to 1.3%, and it retains the standard 5% critical chance.
+
+**Gale Grub** sacrifices critical chance and per-hit progress but offers a larger minimum barrage and a much shorter interval. That can be helpful against long or Progress Locked encounters because additional barrages have more opportunities to activate.
+
+Use these priorities when selecting bait for the Fisch Halibut Harpoon:
+
+- Choose **Universal Luck** when you want more critical harpoon impacts.
+- Prioritize **Preferred Luck** to raise the guaranteed minimum barrage size.
+- Stack **Resilience** for more progress from every successful hit.
+- Use **Lure Speed** to shorten the interval between barrages.
+- Consider Snail bait if exceeding the normal 0.15 Control cap is more valuable than maximizing projectile output.
+
+Trash- or Common-rarity bait may trigger a confetti effect rather than meaningful high-rarity bonuses. For difficult fishing, prioritize the bait’s actual statistics over its visual interaction.
+
+## How to Get the Halibut Harpoon in Fisch
+
+The Fisch Halibut Harpoon is earned by completing **Dr. Monty’s questline**. Dr. Monty can be found at **Monty’s Lab**, and players must be level 1,000 to meet the listed rod requirement.
+
+A complete, verified quest-by-quest sequence was not available in the reference information collected for this guide. Rather than presenting speculative objectives as facts, the safest route is to prepare for the confirmed requirements and follow Dr. Monty’s current in-game prompts.
+
+| Preparation step | Why it helps |
+|---|---|
+| Reach level 1,000 | This is the listed level requirement |
+| Find Monty’s Lab | Dr. Monty is the questline NPC |
+| Free inventory space | The quest may involve collecting or presenting items |
+| Keep multiple bait types | Different catches may benefit from different bait profiles |
+| Preserve rare catches | Quest NPCs sometimes request specific fish |
+| Read every journal hint | In-game text is the best source when objectives change |
+| Check the current game version | Updates may revise requirements or quest behavior |
+
+Because this is categorized as a Stage 10 unlock, expect a lengthy or demanding process. Player experience describes the questline as tedious, but the reward compensates with high Luck, infinite weight capacity, hazardous-liquid compatibility, and valuable mutation potential.
+
+For live version access and official update information, visit the [Fisch experience page on Roblox](https://www.roblox.com/games/16732694052/Fisch). Requirements can change after patches, so verify Dr. Monty’s dialogue before spending rare resources.
+
+## Is the Halibut Harpoon Worth Using?
+
+For players who have reached level 1,000, the Fisch Halibut Harpoon is a powerful general-purpose rod with particular value for heavy catches and mutation farming.
+
+Its 288% Luck and zero-second listed lure time support efficient fishing, while 56% Resilience and a 40%-wide control bar provide a reasonable level of stability. Infinite maximum weight removes one of the most restrictive concerns associated with large fish.
+
+| Use case | Rating | Reason |
+|---|---|---|
+| General late-game fishing | Excellent | High Luck, speed, Resilience, and unlimited weight |
+| Mutation farming | Excellent | Bathyal, Thalassic, and Perfect Catch Hadal opportunities |
+| Weight farming | Excellent | +20% weight and a conditional 1.7× final multiplier |
+| Hazardous-liquid fishing | Excellent | Compatible with lava, Noxious Fluid, and brine |
+| Easy automatic play | Moderate | Harpoon progress still depends on bar positioning |
+| Early progression | Unavailable | Requires level 1,000 and a late-game questline |
+| Control-focused builds | Good | Useful base Control, but normally capped at 0.15 |
+
+The main drawback is that maximum performance requires attention. If the fish is outside your bar when a harpoon lands, that projectile does not contribute progress. Players who learn the impact timing will gain much more from the rod than those who rely only on its base statistics.
+
+Available cosmetic variants include:
+
+- **Pufferfish Harpoon:** Obtained by giving Dr. Monty a self-caught Aether Pufferfish
+- **Party Puffer:** A limited skin previously listed at 1,499 Robux
+- **Salty Sardines:** A limited skin previously listed at 199 Robux
+
+The Pufferfish Harpoon is the most gameplay-oriented cosmetic goal because it has a defined in-game acquisition condition. Make sure the Aether Pufferfish is self-caught; obtaining one through another method may not satisfy Dr. Monty’s requirement.
+
+## Frequently Asked Questions
+
+### What level do you need for the Fisch Halibut Harpoon?
+
+You need to reach **level 1,000**. The rod is classified as Stage 10 based on its difficult acquisition process and is unlocked through Dr. Monty’s questline at Monty’s Lab.
+
+### Can the Halibut Harpoon catch fish of any size?
+
+Yes. Its maximum weight is listed as infinite, so no fish should be too heavy for the rod. Its 200 Durability also allows it to fish in lava, brine, and Noxious Fluid.
+
+### What is the best bait for the Halibut Harpoon?
+
+The answer depends on your goal. Universal Luck improves harpoon critical chance, Preferred Luck raises minimum projectile count, Resilience increases progress per impact, and Lure Speed reduces the barrage interval. Bagel offers stronger individual hits, while Gale Grub produces more frequent barrages in the documented examples.
+
+### How do you activate the 1.7× fish-weight multiplier?
+
+Land at least **15 harpoons** while keeping the fish inside the control bar when each projectile connects. Once the condition is satisfied, the Fisch Halibut Harpoon applies a 1.7× multiplier to the catch’s final weight.
